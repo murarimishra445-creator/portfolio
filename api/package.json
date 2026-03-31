@@ -1,0 +1,16 @@
+{
+  "name": "murari-portfolio",
+  "version": "1.0.0",
+  "description": "Murari Kumar Mishra - Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
